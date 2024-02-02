@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋🏿, I'm Sten Mayunga
+- 👨🏿‍💻 I've been coding since 2020
+- 👨🏿‍🏫 I'm a self-taught developer
+- 🐍 I'm learning Python at the moment
+- 💼 I'm the founder of [StenTech.dev](https://stentech.dev/)
+- 𝕏 You can contact me on X (Twitter) [@StenTechDev](https://twitter.com/StenTechDev)
 
 <!--
 **StenTechDev/StenTechDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
